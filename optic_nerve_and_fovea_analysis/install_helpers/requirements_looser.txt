@@ -1,0 +1,7 @@
+imagecodecs
+napari[all]~=0.4.18
+numba
+numpy
+scikit-image
+shapely
+onnxruntime
