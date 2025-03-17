@@ -1,6 +1,6 @@
 # Author: Jason Bunk
 import napari
-from main_app import (
+from app_classic import (
     build_on_layers_inserted_for_thread_loop,
     on_viewer_cursor_position,
     on_viewer_mouse_over_canvas,
